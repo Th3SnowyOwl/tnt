@@ -3,41 +3,41 @@
 	<!-- Created with my keyboard -->
 	<!-- go check our adobe animate if you dont want pain. -->
 	<!-- Static -->
-	<SubTexture name="arrowLEFT0000" x="" y="" width="100" height="100"/>
-	<SubTexture name="arrowDOWN0000" x="" y="" width="100" height="100"/>
-	<SubTexture name="arrowUP0000" x="" y="" width="100" height="100"/>
-	<SubTexture name="arrowRIGHT0000" x="" y="" width="100" height="100"/>
+	<SubTexture name="arrowLEFT0000" x="0" y="0" width="100" height="100"/>
+	<SubTexture name="arrowDOWN0000" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="arrowUP0000" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="arrowRIGHT0000" x="300" y="0" width="100" height="100"/>
 	<!-- Normals/Moving Arrows -->
-	<SubTexture name="LEFT0000" x="" y="" width="100" height="100"/>
-	<SubTexture name="DOWN0000" x="" y="" width="100" height="100"/>
-	<SubTexture name="UP0000" x="" y="" width="100" height="100"/>
-	<SubTexture name="DOWN0000" x="" y="" width="100" height="100"/>
+	<SubTexture name="LEFT0000" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="DOWN0000" x="500" y="0" width="100" height="100"/>
+	<SubTexture name="UP0000" x="600" y="0" width="100" height="100"/>
+	<SubTexture name="DOWN0000" x="700" y="0" width="100" height="100"/>
 	<!-- Press + Anim -->
-	<SubTexture name="left press0000" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="left press0001" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="down press0000" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="down press0001" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="up press0000" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="up press0001" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="right press0000" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="right press0001" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="left press0000" x="0" y="100" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="left press0001" x="100" y="100" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="down press0000" x="200" y="100" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="down press0001" x="300" y="100" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="up press0000" x="400" y="100" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="up press0001" x="500" y="100" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="right press0000" x="600" y="100" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="right press0001" x="700" y="100" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
 	<!-- Confirms -->
-	<SubTexture name="left confirm0000" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="left confirm0001" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="down confirm0000" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="down confirm0001" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="up confirm0000" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="up confirm0001" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="right confirm0000" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
-	<SubTexture name="right confirm0001" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="left confirm0000" x="0" y="200" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="left confirm0001" x="100" y="200" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="down confirm0000" x="200" y="200" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="down confirm0001" x="300" y="200" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="up confirm0000" x="400" y="200" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="up confirm0001" x="500" y="200" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="right confirm0000" x="600" y="200" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
+	<SubTexture name="right confirm0001" x="700" y="200" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
 	<!-- Holds -->
-	<SubTexture name="left hold end0000" x="" y="" width="50" height="65"/>
-	<SubTexture name="left hold piece0000" x="" y="" width="50" height="65"/>
-	<SubTexture name="down hold end0000" x="" y="" width="50" height="65"/>
-	<SubTexture name="down hold piece0000" x="" y="" width="50" height="65"/>
-	<SubTexture name="up hold end0000" x="" y="" width="50" height="65"/>
-	<SubTexture name="up hold piece0000" x="" y="" width="50" height="65"/>
-	<SubTexture name="right hold end0000" x="" y="" width="50" height="65"/>
-	<SubTexture name="right hold piece0000" x="" y="" width="50" height="65"/>
+	<SubTexture name="left hold end0000" x="0" y="300" width="50" height="65"/>
+	<SubTexture name="left hold piece0000" x="50" y="300" width="50" height="65"/>
+	<SubTexture name="down hold end0000" x="100" y="300" width="50" height="65"/>
+	<SubTexture name="down hold piece0000" x="150" y="300" width="50" height="65"/>
+	<SubTexture name="up hold end0000" x="200" y="300" width="50" height="65"/>
+	<SubTexture name="up hold piece0000" x="250" y="300" width="50" height="65"/>
+	<SubTexture name="right hold end0000" x="300" y="300" width="50" height="65"/>
+	<SubTexture name="right hold piece0000" x="350" y="300" width="50" height="65"/>
 	<!-- This was painfull -->
 </TextureAtlas>
