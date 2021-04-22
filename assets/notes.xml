@@ -3,15 +3,15 @@
 	<!-- Created with my keyboard -->
 	<!-- go check our adobe animate if you dont want pain. -->
 	<!-- Static -->
-	<SubTexture name="arrowDOWN0000" x="" y="" width="100" height="100"/>
 	<SubTexture name="arrowLEFT0000" x="" y="" width="100" height="100"/>
-	<SubTexture name="arrowRIGHT0000" x="" y="" width="100" height="100"/>
+	<SubTexture name="arrowDOWN0000" x="" y="" width="100" height="100"/>
 	<SubTexture name="arrowUP0000" x="" y="" width="100" height="100"/>
+	<SubTexture name="arrowRIGHT0000" x="" y="" width="100" height="100"/>
 	<!-- Normals/Moving Arrows -->
-	<SubTexture name="DOWN0000" x="" y="" width="100" height="100"/>
 	<SubTexture name="LEFT0000" x="" y="" width="100" height="100"/>
-	<SubTexture name="RIGHT0000" x="" y="" width="100" height="100"/>
+	<SubTexture name="DOWN0000" x="" y="" width="100" height="100"/>
 	<SubTexture name="UP0000" x="" y="" width="100" height="100"/>
+	<SubTexture name="DOWN0000" x="" y="" width="100" height="100"/>
 	<!-- Press + Anim -->
 	<SubTexture name="left press0000" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
 	<SubTexture name="left press0001" x="" y="" width="100" height="100" frameX="" frameY="" frameWidth="" frameHeight=""/>
