@@ -1,7 +1,7 @@
 # TNT
 A game im working on
 <!-- tuesdaynighttorment -->!
-![asset_src/menus/titlescreen/title.png)
+![./asset_src/menus/titlescreen/title.png)
 
 <table style="width:100%; border: 1px solid black">
 	<tr>
